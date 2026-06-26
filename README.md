@@ -1,5 +1,6 @@
 # psoriasis-biomarker-discovery-metaheuristic-
 Biomarker discovery in psoriasis: an integrated featureselection and machine learning framework for identifyingdiagnostic genes
+
 Authors
 
 Raziyeh Ansari Shiri, Fatemeh Zare Mehrjardi, Mohsen Sardari Zarchi, Hossein Ghaneai
@@ -60,5 +61,10 @@ Biomarker discovery in psoriasis: an integrated feature selection and machine le
 Iranian Journal of Dermatology.
 
 DOI: 10.22034/ijd.2025.544542.2091
+
+
+F1-score evaluation of all hybrid feature selection and classification combinations (single run). AdaBoost, Adaptive Boosting;
+GA, Genetic Algorithm; HHO, Harris Hawks Optimization; PSO, Particle Swarm Optimization; SVM, Support Vector Machine; XGBoost,
+Extreme Gradient Boosting
 
 
