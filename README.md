@@ -42,7 +42,7 @@ SVM
 AdaBoost
 Decision Tree
 Identification of 35 diagnostic biomarker genes
-Best performance achieved by the HHO–XGBoost framework (F1-score = 99.31%)
+Best performance achieved by the HHO–XGBoost framework (F1-score = 99.31%).
 
 Dataset
 
@@ -65,6 +65,6 @@ DOI: 10.22034/ijd.2025.544542.2091
 
 F1-score evaluation of all hybrid feature selection and classification combinations (single run). AdaBoost, Adaptive Boosting;
 GA, Genetic Algorithm; HHO, Harris Hawks Optimization; PSO, Particle Swarm Optimization; SVM, Support Vector Machine; XGBoost,
-Extreme Gradient Boosting
+Extreme Gradient Boosting.
 
 
