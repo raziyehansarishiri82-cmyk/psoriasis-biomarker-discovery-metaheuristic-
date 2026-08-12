@@ -54,9 +54,6 @@ Citation
 
 If you use this repository in your research, please cite:
 
-Ansari Shiri R, Zare Mehrjardi F, Sardari Zarchi M, Ghaneai H.
-
-Biomarker discovery in psoriasis: an integrated feature selection and machine learning framework for identifying diagnostic genes.
 
 Iranian Journal of Dermatology.
 
